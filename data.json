@@ -1,0 +1,3089 @@
+{
+    "nodes":[
+        {
+          "id": 12,
+          "kasus": 72,
+          "klaster": "DKI JAKARTA",
+          "umur": 65,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 28,
+          "kasus": 25,
+          "klaster": "BALI",
+          "umur": 53,
+          "gender": "Perempuan",
+          "klasterid": "51",
+          "statusid": "Meninggal",
+          "wn": "WNA"
+        },
+        {
+          "id": 50,
+          "kasus": 35,
+          "klaster": "BANTEN",
+          "umur": 57,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 74,
+          "kasus": 36,
+          "klaster": "DKI JAKARTA",
+          "umur": 36,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 11,
+          "kasus": 71,
+          "klaster": "DKI JAKARTA",
+          "umur": 52,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 18,
+          "kasus": 74,
+          "klaster": "JAWA BARAT",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 53,
+          "kasus": 39,
+          "klaster": "DKI JAKARTA",
+          "umur": 54,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 64,
+          "kasus": 50,
+          "klaster": "JAWA TENGAH",
+          "umur": 59,
+          "gender": "Laki-laki",
+          "klasterid": "33",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 86,
+          "kasus": 87,
+          "klaster": "DKI JAKARTA",
+          "umur": 66,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 99,
+          "kasus": 99,
+          "klaster": "DKI JAKARTA",
+          "umur": 41,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 109,
+          "kasus": 109,
+          "klaster": "DKI JAKARTA",
+          "umur": 65,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 113,
+          "kasus": 113,
+          "klaster": "DKI JAKARTA",
+          "umur": 54,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 116,
+          "kasus": 116,
+          "klaster": "DKI JAKARTA",
+          "umur": 72,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 117,
+          "kasus": 117,
+          "klaster": "DKI JAKARTA",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 118,
+          "kasus": 118,
+          "klaster": "JAWA TENGAH",
+          "umur": 43,
+          "gender": "Laki-laki",
+          "klasterid": "33",
+          "statusid": "Meninggal",
+          "wn": "WNI"
+        },
+        {
+          "id": 1,
+          "kasus": 1,
+          "klaster": "DKI JAKARTA",
+          "umur": 31,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 2,
+          "kasus": 2,
+          "klaster": "DKI JAKARTA",
+          "umur": 64,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 4,
+          "kasus": 7,
+          "klaster": "DKI JAKARTA",
+          "umur": 54,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 6,
+          "kasus": 9,
+          "klaster": "DKI JAKARTA",
+          "umur": 55,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 7,
+          "kasus": 3,
+          "klaster": "DKI JAKARTA",
+          "umur": 33,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 17,
+          "kasus": 13,
+          "klaster": "DKI JAKARTA",
+          "umur": 16,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 3,
+          "kasus": 6,
+          "klaster": "DKI JAKARTA",
+          "umur": 36,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 5,
+          "kasus": 8,
+          "klaster": "DKI JAKARTA",
+          "umur": 55,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Sembuh",
+          "wn": "WNI"
+        },
+        {
+          "id": 8,
+          "kasus": 70,
+          "klaster": "DKI JAKARTA",
+          "umur": 48,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 10,
+          "kasus": 11,
+          "klaster": "DKI JAKARTA",
+          "umur": 54,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 13,
+          "kasus": 73,
+          "klaster": "DKI JAKARTA",
+          "umur": 70,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 14,
+          "kasus": 4,
+          "klaster": "DKI JAKARTA",
+          "umur": 34,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 15,
+          "kasus": 21,
+          "klaster": "DKI JAKARTA",
+          "umur": 47,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 20,
+          "kasus": 22,
+          "klaster": "DKI JAKARTA",
+          "umur": 36,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 21,
+          "kasus": 20,
+          "klaster": "DKI JAKARTA",
+          "umur": 70,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 22,
+          "kasus": 23,
+          "klaster": "DKI JAKARTA",
+          "umur": 73,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 23,
+          "kasus": 15,
+          "klaster": "JAWA BARAT",
+          "umur": 43,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 24,
+          "kasus": 16,
+          "klaster": "JAWA BARAT",
+          "umur": 17,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 31,
+          "kasus": 78,
+          "klaster": "DKI JAKARTA",
+          "umur": 69,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 33,
+          "kasus": 80,
+          "klaster": "JAWA BARAT",
+          "umur": 65,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 37,
+          "kasus": 82,
+          "klaster": "DKI JAKARTA",
+          "umur": 68,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 38,
+          "kasus": 83,
+          "klaster": "DKI JAKARTA",
+          "umur": 43,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 45,
+          "kasus": 31,
+          "klaster": "DKI JAKARTA",
+          "umur": 48,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 52,
+          "kasus": 38,
+          "klaster": "DKI JAKARTA",
+          "umur": 80,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 54,
+          "kasus": 40,
+          "klaster": "DKI JAKARTA",
+          "umur": 46,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 59,
+          "kasus": 45,
+          "klaster": "DKI JAKARTA",
+          "umur": 29,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 60,
+          "kasus": 46,
+          "klaster": "DKI JAKARTA",
+          "umur": null,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 66,
+          "kasus": 52,
+          "klaster": "DKI JAKARTA",
+          "umur": 59,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 67,
+          "kasus": 53,
+          "klaster": "DKI JAKARTA",
+          "umur": 24,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 69,
+          "kasus": 55,
+          "klaster": "DKI JAKARTA",
+          "umur": 26,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 71,
+          "kasus": 57,
+          "klaster": "DKI JAKARTA",
+          "umur": 27,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 75,
+          "kasus": 60,
+          "klaster": "DKI JAKARTA",
+          "umur": 25,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 76,
+          "kasus": 61,
+          "klaster": "DKI JAKARTA",
+          "umur": 58,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 79,
+          "kasus": 64,
+          "klaster": "DKI JAKARTA",
+          "umur": 49,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 82,
+          "kasus": 67,
+          "klaster": "DKI JAKARTA",
+          "umur": 25,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 83,
+          "kasus": 68,
+          "klaster": "DKI JAKARTA",
+          "umur": 38,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 85,
+          "kasus": 86,
+          "klaster": "JAWA BARAT",
+          "umur": 67,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 91,
+          "kasus": 91,
+          "klaster": "DKI JAKARTA",
+          "umur": 42,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 94,
+          "kasus": 94,
+          "klaster": "BANTEN",
+          "umur": 57,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 100,
+          "kasus": 100,
+          "klaster": "DKI JAKARTA",
+          "umur": 70,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 110,
+          "kasus": 110,
+          "klaster": "DKI JAKARTA",
+          "umur": 67,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 112,
+          "kasus": 112,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 121,
+          "kasus": 121,
+          "klaster": "DKI JAKARTA",
+          "umur": 65,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 122,
+          "kasus": 122,
+          "klaster": "DKI JAKARTA",
+          "umur": 74,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 126,
+          "kasus": 126,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 127,
+          "kasus": 127,
+          "klaster": "DKI JAKARTA",
+          "umur": 32,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 128,
+          "kasus": 128,
+          "klaster": "DKI JAKARTA",
+          "umur": 26,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 129,
+          "kasus": 129,
+          "klaster": "DKI JAKARTA",
+          "umur": 42,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 132,
+          "kasus": 132,
+          "klaster": "DKI JAKARTA",
+          "umur": 28,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 133,
+          "kasus": 133,
+          "klaster": "DKI JAKARTA",
+          "umur": 37,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 134,
+          "kasus": 134,
+          "klaster": "DKI JAKARTA",
+          "umur": 22,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 135,
+          "kasus": 135,
+          "klaster": "DKI JAKARTA",
+          "umur": 22,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 138,
+          "kasus": 138,
+          "klaster": "DKI JAKARTA",
+          "umur": 34,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 139,
+          "kasus": 139,
+          "klaster": "DKI JAKARTA",
+          "umur": 44,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 143,
+          "kasus": 143,
+          "klaster": "DKI JAKARTA",
+          "umur": 28,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 146,
+          "kasus": 146,
+          "klaster": "DKI JAKARTA",
+          "umur": 74,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 149,
+          "kasus": 149,
+          "klaster": "JAWA TENGAH",
+          "umur": 45,
+          "gender": "Perempuan",
+          "klasterid": "33",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 151,
+          "kasus": 153,
+          "klaster": "DKI JAKARTA",
+          "umur": 55,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 153,
+          "kasus": 155,
+          "klaster": "DKI JAKARTA",
+          "umur": 72,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 156,
+          "kasus": 158,
+          "klaster": "DKI JAKARTA",
+          "umur": 80,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 159,
+          "kasus": 161,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 160,
+          "kasus": 162,
+          "klaster": "DKI JAKARTA",
+          "umur": 28,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 163,
+          "kasus": 165,
+          "klaster": "JAWA TIMUR",
+          "umur": 43,
+          "gender": "Perempuan",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 166,
+          "kasus": 168,
+          "klaster": "DKI JAKARTA",
+          "umur": 39,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 169,
+          "kasus": 169,
+          "klaster": "DKI JAKARTA",
+          "umur": 44,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 172,
+          "kasus": 172,
+          "klaster": "BANTEN",
+          "umur": 36,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 173,
+          "kasus": 173,
+          "klaster": "BANTEN",
+          "umur": 28,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 174,
+          "kasus": 174,
+          "klaster": "BANTEN",
+          "umur": 20,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 175,
+          "kasus": 175,
+          "klaster": "BANTEN",
+          "umur": 26,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 177,
+          "kasus": 177,
+          "klaster": "JAWA TIMUR",
+          "umur": 43,
+          "gender": "Perempuan",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 180,
+          "kasus": 180,
+          "klaster": "DKI JAKARTA",
+          "umur": 25,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 181,
+          "kasus": 181,
+          "klaster": "DKI JAKARTA",
+          "umur": 22,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 182,
+          "kasus": 182,
+          "klaster": "DKI JAKARTA",
+          "umur": 47,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 184,
+          "kasus": 184,
+          "klaster": "DKI JAKARTA",
+          "umur": 63,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 185,
+          "kasus": 185,
+          "klaster": "DKI JAKARTA",
+          "umur": 60,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 188,
+          "kasus": 188,
+          "klaster": "DKI JAKARTA",
+          "umur": 50,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 191,
+          "kasus": 191,
+          "klaster": "DKI JAKARTA",
+          "umur": 57,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 195,
+          "kasus": 195,
+          "klaster": "KALIMANTAN TIMUR",
+          "umur": 37,
+          "gender": "Perempuan",
+          "klasterid": "64",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 196,
+          "kasus": 196,
+          "klaster": "JAWA TENGAH",
+          "umur": 60,
+          "gender": "Perempuan",
+          "klasterid": "33",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 199,
+          "kasus": 199,
+          "klaster": "JAWA BARAT",
+          "umur": 55,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 207,
+          "kasus": 207,
+          "klaster": "JAWA BARAT",
+          "umur": null,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 208,
+          "kasus": 208,
+          "klaster": "JAWA BARAT",
+          "umur": null,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 209,
+          "kasus": 209,
+          "klaster": "JAWA BARAT",
+          "umur": 53,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 211,
+          "kasus": 211,
+          "klaster": "JAWA BARAT",
+          "umur": 69,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 218,
+          "kasus": 218,
+          "klaster": "JAWA BARAT",
+          "umur": null,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 219,
+          "kasus": 219,
+          "klaster": "JAWA BARAT",
+          "umur": 26,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 220,
+          "kasus": 220,
+          "klaster": "DKI JAKARTA",
+          "umur": 49,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 221,
+          "kasus": 221,
+          "klaster": "DKI JAKARTA",
+          "umur": 24,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 222,
+          "kasus": 222,
+          "klaster": "DKI JAKARTA",
+          "umur": 35,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 229,
+          "kasus": 229,
+          "klaster": "DKI JAKARTA",
+          "umur": 49,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 232,
+          "kasus": 232,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 240,
+          "kasus": 240,
+          "klaster": "KALIMANTAN TIMUR",
+          "umur": 28,
+          "gender": "Perempuan",
+          "klasterid": "64",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 243,
+          "kasus": 243,
+          "klaster": "SULAWESI TENGGARA",
+          "umur": 32,
+          "gender": "Perempuan",
+          "klasterid": "74",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 244,
+          "kasus": 244,
+          "klaster": "DKI JAKARTA",
+          "umur": 1,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 247,
+          "kasus": 247,
+          "klaster": "BANTEN",
+          "umur": 39,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 250,
+          "kasus": 250,
+          "klaster": "DKI JAKARTA",
+          "umur": 57,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 252,
+          "kasus": 252,
+          "klaster": "DKI JAKARTA",
+          "umur": 22,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 254,
+          "kasus": 254,
+          "klaster": "BANTEN",
+          "umur": 59,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 255,
+          "kasus": 255,
+          "klaster": "BANTEN",
+          "umur": 56,
+          "gender": "Perempuan",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 262,
+          "kasus": 262,
+          "klaster": "DKI JAKARTA",
+          "umur": 70,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 263,
+          "kasus": 263,
+          "klaster": "DKI JAKARTA",
+          "umur": 26,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 265,
+          "kasus": 265,
+          "klaster": "KEPULAUAN RIAU",
+          "umur": 52,
+          "gender": "Perempuan",
+          "klasterid": "21",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 267,
+          "kasus": 267,
+          "klaster": "DKI JAKARTA",
+          "umur": 52,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 269,
+          "kasus": 269,
+          "klaster": "DKI JAKARTA",
+          "umur": 47,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 273,
+          "kasus": 273,
+          "klaster": "DKI JAKARTA",
+          "umur": 48,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 275,
+          "kasus": 275,
+          "klaster": "JAWA TENGAH",
+          "umur": 60,
+          "gender": "Perempuan",
+          "klasterid": "33",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 279,
+          "kasus": 279,
+          "klaster": "SUMATERA UTARA",
+          "umur": 50,
+          "gender": "Perempuan",
+          "klasterid": "12",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 282,
+          "kasus": 282,
+          "klaster": "JAWA BARAT",
+          "umur": 62,
+          "gender": "Perempuan",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 283,
+          "kasus": 283,
+          "klaster": "JAWA TIMUR",
+          "umur": 51,
+          "gender": "Perempuan",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 285,
+          "kasus": 285,
+          "klaster": "SULAWESI SELATAN",
+          "umur": 55,
+          "gender": "Perempuan",
+          "klasterid": "73",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 288,
+          "kasus": 288,
+          "klaster": "DKI JAKARTA",
+          "umur": 41,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 289,
+          "kasus": 289,
+          "klaster": "DKI JAKARTA",
+          "umur": 34,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 290,
+          "kasus": 290,
+          "klaster": "DKI JAKARTA",
+          "umur": 46,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 292,
+          "kasus": 292,
+          "klaster": "DKI JAKARTA",
+          "umur": 42,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 295,
+          "kasus": 295,
+          "klaster": "DKI JAKARTA",
+          "umur": 41,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 298,
+          "kasus": 298,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 302,
+          "kasus": 302,
+          "klaster": "DKI JAKARTA",
+          "umur": 28,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 305,
+          "kasus": 305,
+          "klaster": "DKI JAKARTA",
+          "umur": 28,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 306,
+          "kasus": 306,
+          "klaster": "DKI JAKARTA",
+          "umur": 63,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 307,
+          "kasus": 307,
+          "klaster": "DKI JAKARTA",
+          "umur": 48,
+          "gender": "Perempuan",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 9,
+          "kasus": 10,
+          "klaster": "DKI JAKARTA",
+          "umur": 29,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 16,
+          "kasus": 12,
+          "klaster": "DKI JAKARTA",
+          "umur": 31,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 19,
+          "kasus": 14,
+          "klaster": "DKI JAKARTA",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 25,
+          "kasus": 5,
+          "klaster": "DKI JAKARTA",
+          "umur": 55,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 26,
+          "kasus": 24,
+          "klaster": "DKI JAKARTA",
+          "umur": 46,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 27,
+          "kasus": 18,
+          "klaster": "BANTEN",
+          "umur": 55,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 29,
+          "kasus": 75,
+          "klaster": "DKI JAKARTA",
+          "umur": 64,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 30,
+          "kasus": 77,
+          "klaster": "DKI JAKARTA",
+          "umur": 55,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 32,
+          "kasus": 79,
+          "klaster": "DKI JAKARTA",
+          "umur": 36,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 34,
+          "kasus": 81,
+          "klaster": "DKI JAKARTA",
+          "umur": 86,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNA"
+        },
+        {
+          "id": 35,
+          "kasus": 19,
+          "klaster": "DKI JAKARTA",
+          "umur": 40,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 36,
+          "kasus": 17,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 39,
+          "kasus": 26,
+          "klaster": "DKI JAKARTA",
+          "umur": 46,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 40,
+          "kasus": 27,
+          "klaster": "DKI JAKARTA",
+          "umur": 33,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 41,
+          "kasus": 84,
+          "klaster": "DKI JAKARTA",
+          "umur": 78,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 42,
+          "kasus": 30,
+          "klaster": "DKI JAKARTA",
+          "umur": 85,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 43,
+          "kasus": 29,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 44,
+          "kasus": 28,
+          "klaster": "DKI JAKARTA",
+          "umur": 37,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 46,
+          "kasus": 32,
+          "klaster": "DKI JAKARTA",
+          "umur": 45,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 47,
+          "kasus": 33,
+          "klaster": "JAWA BARAT",
+          "umur": 29,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 48,
+          "kasus": 34,
+          "klaster": "DKI JAKARTA",
+          "umur": 52,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 51,
+          "kasus": 37,
+          "klaster": "DKI JAKARTA",
+          "umur": 43,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 55,
+          "kasus": 41,
+          "klaster": "JAWA BARAT",
+          "umur": 40,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 56,
+          "kasus": 42,
+          "klaster": "DKI JAKARTA",
+          "umur": 66,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 57,
+          "kasus": 43,
+          "klaster": "DKI JAKARTA",
+          "umur": 34,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 58,
+          "kasus": 44,
+          "klaster": "JAWA BARAT",
+          "umur": 57,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 61,
+          "kasus": 47,
+          "klaster": "DKI JAKARTA",
+          "umur": 61,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 62,
+          "kasus": 48,
+          "klaster": "BANTEN",
+          "umur": 35,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 63,
+          "kasus": 49,
+          "klaster": "DI YOGYAKARTA",
+          "umur": 3,
+          "gender": "Laki-laki",
+          "klasterid": "34",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 65,
+          "kasus": 51,
+          "klaster": "JAWA TENGAH",
+          "umur": 60,
+          "gender": "Laki-laki",
+          "klasterid": "33",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 68,
+          "kasus": 54,
+          "klaster": "DKI JAKARTA",
+          "umur": 2,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 70,
+          "kasus": 56,
+          "klaster": "DKI JAKARTA",
+          "umur": 58,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 72,
+          "kasus": 58,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 73,
+          "kasus": 59,
+          "klaster": "BANTEN",
+          "umur": 63,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 77,
+          "kasus": 62,
+          "klaster": "SULAWESI UTARA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "71",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 78,
+          "kasus": 63,
+          "klaster": "KALIMANTAN BARAT",
+          "umur": 34,
+          "gender": "Laki-laki",
+          "klasterid": "61",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 80,
+          "kasus": 65,
+          "klaster": "DKI JAKARTA",
+          "umur": 48,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 81,
+          "kasus": 66,
+          "klaster": "DKI JAKARTA",
+          "umur": 73,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 84,
+          "kasus": 69,
+          "klaster": "DKI JAKARTA",
+          "umur": 80,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 87,
+          "kasus": 88,
+          "klaster": "DKI JAKARTA",
+          "umur": 20,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 89,
+          "kasus": 76,
+          "klaster": "DKI JAKARTA",
+          "umur": 64,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 90,
+          "kasus": 90,
+          "klaster": "DKI JAKARTA",
+          "umur": 31,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 92,
+          "kasus": 92,
+          "klaster": "BANTEN",
+          "umur": 39,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 93,
+          "kasus": 93,
+          "klaster": "BANTEN",
+          "umur": 61,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 98,
+          "kasus": 98,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 101,
+          "kasus": 101,
+          "klaster": "DKI JAKARTA",
+          "umur": 43,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 102,
+          "kasus": 102,
+          "klaster": "DKI JAKARTA",
+          "umur": 39,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 103,
+          "kasus": 103,
+          "klaster": "DKI JAKARTA",
+          "umur": 65,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 106,
+          "kasus": 106,
+          "klaster": "DKI JAKARTA",
+          "umur": 40,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 108,
+          "kasus": 108,
+          "klaster": "DKI JAKARTA",
+          "umur": 27,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 111,
+          "kasus": 111,
+          "klaster": "DKI JAKARTA",
+          "umur": 57,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 114,
+          "kasus": 114,
+          "klaster": "DKI JAKARTA",
+          "umur": 66,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 115,
+          "kasus": 115,
+          "klaster": "DKI JAKARTA",
+          "umur": 29,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 119,
+          "kasus": 119,
+          "klaster": "DKI JAKARTA",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 120,
+          "kasus": 120,
+          "klaster": "DKI JAKARTA",
+          "umur": 74,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 123,
+          "kasus": 123,
+          "klaster": "DKI JAKARTA",
+          "umur": 36,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 124,
+          "kasus": 124,
+          "klaster": "DKI JAKARTA",
+          "umur": 43,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 125,
+          "kasus": 125,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 130,
+          "kasus": 130,
+          "klaster": "JAWA BARAT",
+          "umur": 40,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 136,
+          "kasus": 136,
+          "klaster": "DKI JAKARTA",
+          "umur": 40,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 137,
+          "kasus": 137,
+          "klaster": "DKI JAKARTA",
+          "umur": 30,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 140,
+          "kasus": 140,
+          "klaster": "KEPULAUAN RIAU",
+          "umur": 71,
+          "gender": "Laki-laki",
+          "klasterid": "21",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 141,
+          "kasus": 141,
+          "klaster": "JAWA TIMUR",
+          "umur": 22,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 142,
+          "kasus": 142,
+          "klaster": "JAWA TIMUR",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 145,
+          "kasus": 145,
+          "klaster": "DKI JAKARTA",
+          "umur": 44,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 150,
+          "kasus": 150,
+          "klaster": "JAWA TIMUR",
+          "umur": 55,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 152,
+          "kasus": 154,
+          "klaster": "DKI JAKARTA",
+          "umur": 70,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 154,
+          "kasus": 156,
+          "klaster": "DKI JAKARTA",
+          "umur": 59,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 155,
+          "kasus": 157,
+          "klaster": "KALIMANTAN BARAT",
+          "umur": 19,
+          "gender": "Laki-laki",
+          "klasterid": "61",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 157,
+          "kasus": 159,
+          "klaster": "DKI JAKARTA",
+          "umur": 49,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 158,
+          "kasus": 160,
+          "klaster": "DKI JAKARTA",
+          "umur": 52,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 161,
+          "kasus": 163,
+          "klaster": "DKI JAKARTA",
+          "umur": 34,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 162,
+          "kasus": 164,
+          "klaster": "JAWA TIMUR",
+          "umur": 56,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 164,
+          "kasus": 166,
+          "klaster": "JAWA TIMUR",
+          "umur": 49,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 165,
+          "kasus": 167,
+          "klaster": "JAWA TIMUR",
+          "umur": 48,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 167,
+          "kasus": 169,
+          "klaster": "DKI JAKARTA",
+          "umur": 21,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 168,
+          "kasus": 168,
+          "klaster": "DKI JAKARTA",
+          "umur": 38,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 170,
+          "kasus": 170,
+          "klaster": "DKI JAKARTA",
+          "umur": 32,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 171,
+          "kasus": 171,
+          "klaster": "DKI JAKARTA",
+          "umur": 67,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 176,
+          "kasus": 176,
+          "klaster": "JAWA TIMUR",
+          "umur": 56,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 178,
+          "kasus": 178,
+          "klaster": "JAWA TIMUR",
+          "umur": 49,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 179,
+          "kasus": 179,
+          "klaster": "JAWA TIMUR",
+          "umur": 48,
+          "gender": "Laki-laki",
+          "klasterid": "35",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 183,
+          "kasus": 183,
+          "klaster": "DKI JAKARTA",
+          "umur": 28,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 186,
+          "kasus": 186,
+          "klaster": "DKI JAKARTA",
+          "umur": 60,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 187,
+          "kasus": 187,
+          "klaster": "DKI JAKARTA",
+          "umur": 71,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 189,
+          "kasus": 189,
+          "klaster": "DKI JAKARTA",
+          "umur": 39,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 190,
+          "kasus": 190,
+          "klaster": "DKI JAKARTA",
+          "umur": 66,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 192,
+          "kasus": 192,
+          "klaster": "DKI JAKARTA",
+          "umur": 17,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 193,
+          "kasus": 193,
+          "klaster": "RIAU",
+          "umur": 63,
+          "gender": "Laki-laki",
+          "klasterid": "14",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 194,
+          "kasus": 194,
+          "klaster": "LAMPUNG",
+          "umur": 62,
+          "gender": "Laki-laki",
+          "klasterid": "18",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 197,
+          "kasus": 197,
+          "klaster": "JAWA BARAT",
+          "umur": 27,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 198,
+          "kasus": 198,
+          "klaster": "JAWA BARAT",
+          "umur": 21,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 200,
+          "kasus": 200,
+          "klaster": "JAWA BARAT",
+          "umur": 49,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 201,
+          "kasus": 201,
+          "klaster": "DKI JAKARTA",
+          "umur": 31,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 202,
+          "kasus": 202,
+          "klaster": "SUMATERA UTARA",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "12",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 203,
+          "kasus": 203,
+          "klaster": "DKI JAKARTA",
+          "umur": 83,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 204,
+          "kasus": 204,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 205,
+          "kasus": 205,
+          "klaster": "DKI JAKARTA",
+          "umur": 59,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 206,
+          "kasus": 206,
+          "klaster": "JAWA BARAT",
+          "umur": 55,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 210,
+          "kasus": 210,
+          "klaster": "JAWA BARAT",
+          "umur": 71,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 212,
+          "kasus": 212,
+          "klaster": "DKI JAKARTA",
+          "umur": 44,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 213,
+          "kasus": 213,
+          "klaster": "DKI JAKARTA",
+          "umur": 24,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 214,
+          "kasus": 214,
+          "klaster": "DKI JAKARTA",
+          "umur": 38,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 215,
+          "kasus": 215,
+          "klaster": "DKI JAKARTA",
+          "umur": 27,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 216,
+          "kasus": 216,
+          "klaster": "DKI JAKARTA",
+          "umur": null,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 217,
+          "kasus": 217,
+          "klaster": "JAWA BARAT",
+          "umur": 52,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 223,
+          "kasus": 223,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 224,
+          "kasus": 224,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 225,
+          "kasus": 225,
+          "klaster": "DKI JAKARTA",
+          "umur": 65,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 226,
+          "kasus": 226,
+          "klaster": "DKI JAKARTA",
+          "umur": 78,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 227,
+          "kasus": 227,
+          "klaster": "DKI JAKARTA",
+          "umur": 63,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 228,
+          "kasus": 228,
+          "klaster": "DI YOGYAKARTA",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "34",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 230,
+          "kasus": 230,
+          "klaster": "DKI JAKARTA",
+          "umur": 26,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 231,
+          "kasus": 231,
+          "klaster": "DKI JAKARTA",
+          "umur": 44,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 233,
+          "kasus": 233,
+          "klaster": "DKI JAKARTA",
+          "umur": 20,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 234,
+          "kasus": 234,
+          "klaster": "DKI JAKARTA",
+          "umur": 55,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 235,
+          "kasus": 235,
+          "klaster": "DI YOGYAKARTA",
+          "umur": 60,
+          "gender": "Laki-laki",
+          "klasterid": "34",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 236,
+          "kasus": 236,
+          "klaster": "JAWA TENGAH",
+          "umur": 37,
+          "gender": "Laki-laki",
+          "klasterid": "33",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 237,
+          "kasus": 237,
+          "klaster": "DKI JAKARTA",
+          "umur": 54,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 238,
+          "kasus": 238,
+          "klaster": "DKI JAKARTA",
+          "umur": 38,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 239,
+          "kasus": 239,
+          "klaster": "DKI JAKARTA",
+          "umur": 64,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 241,
+          "kasus": 241,
+          "klaster": "SULAWESI TENGGARA",
+          "umur": 41,
+          "gender": "Laki-laki",
+          "klasterid": "74",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 242,
+          "kasus": 242,
+          "klaster": "SULAWESI TENGGARA",
+          "umur": 25,
+          "gender": "Laki-laki",
+          "klasterid": "74",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 245,
+          "kasus": 245,
+          "klaster": "BANTEN",
+          "umur": 25,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 246,
+          "kasus": 246,
+          "klaster": "BANTEN",
+          "umur": 43,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 248,
+          "kasus": 248,
+          "klaster": "BANTEN",
+          "umur": 39,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 249,
+          "kasus": 249,
+          "klaster": "JAWA BARAT",
+          "umur": 40,
+          "gender": "Laki-laki",
+          "klasterid": "32",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 251,
+          "kasus": 251,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 253,
+          "kasus": 253,
+          "klaster": "BANTEN",
+          "umur": 48,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 256,
+          "kasus": 256,
+          "klaster": "DKI JAKARTA",
+          "umur": 60,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 257,
+          "kasus": 257,
+          "klaster": "DKI JAKARTA",
+          "umur": 57,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 258,
+          "kasus": 258,
+          "klaster": "DKI JAKARTA",
+          "umur": 37,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 259,
+          "kasus": 259,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 260,
+          "kasus": 260,
+          "klaster": "DKI JAKARTA",
+          "umur": 76,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 261,
+          "kasus": 261,
+          "klaster": "DKI JAKARTA",
+          "umur": 47,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 264,
+          "kasus": 264,
+          "klaster": "DKI JAKARTA",
+          "umur": 32,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 266,
+          "kasus": 266,
+          "klaster": "KEPULAUAN RIAU",
+          "umur": 45,
+          "gender": "Laki-laki",
+          "klasterid": "21",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 268,
+          "kasus": 268,
+          "klaster": "DKI JAKARTA",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 270,
+          "kasus": 270,
+          "klaster": "DKI JAKARTA",
+          "umur": 76,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 271,
+          "kasus": 271,
+          "klaster": "BANTEN",
+          "umur": 50,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 272,
+          "kasus": 272,
+          "klaster": "BANTEN",
+          "umur": 47,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 274,
+          "kasus": 274,
+          "klaster": "BANTEN",
+          "umur": 47,
+          "gender": "Laki-laki",
+          "klasterid": "36",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 276,
+          "kasus": 276,
+          "klaster": "JAWA TENGAH",
+          "umur": 30,
+          "gender": "Laki-laki",
+          "klasterid": "33",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 277,
+          "kasus": 277,
+          "klaster": "JAWA TENGAH",
+          "umur": 34,
+          "gender": "Laki-laki",
+          "klasterid": "33",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 278,
+          "kasus": 278,
+          "klaster": "DKI JAKARTA",
+          "umur": 27,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 280,
+          "kasus": 280,
+          "klaster": "KALIMANTAN TIMUR",
+          "umur": 44,
+          "gender": "Laki-laki",
+          "klasterid": "64",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 281,
+          "kasus": 281,
+          "klaster": "DKI JAKARTA",
+          "umur": 49,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 284,
+          "kasus": 284,
+          "klaster": "DKI JAKARTA",
+          "umur": 63,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 286,
+          "kasus": 286,
+          "klaster": "SULAWESI SELATAN",
+          "umur": 54,
+          "gender": "Laki-laki",
+          "klasterid": "73",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 287,
+          "kasus": 287,
+          "klaster": "DKI JAKARTA",
+          "umur": 39,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 291,
+          "kasus": 291,
+          "klaster": "DKI JAKARTA",
+          "umur": 36,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 293,
+          "kasus": 293,
+          "klaster": "DKI JAKARTA",
+          "umur": 65,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 294,
+          "kasus": 294,
+          "klaster": "DKI JAKARTA",
+          "umur": 57,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 296,
+          "kasus": 296,
+          "klaster": "DKI JAKARTA",
+          "umur": 34,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 297,
+          "kasus": 297,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 299,
+          "kasus": 299,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 300,
+          "kasus": 300,
+          "klaster": "DKI JAKARTA",
+          "umur": 51,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 301,
+          "kasus": 301,
+          "klaster": "DKI JAKARTA",
+          "umur": 37,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 303,
+          "kasus": 303,
+          "klaster": "DKI JAKARTA",
+          "umur": 37,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 304,
+          "kasus": 304,
+          "klaster": "DKI JAKARTA",
+          "umur": 52,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 308,
+          "kasus": 308,
+          "klaster": "DKI JAKARTA",
+          "umur": 39,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        },
+        {
+          "id": 309,
+          "kasus": 309,
+          "klaster": "DKI JAKARTA",
+          "umur": 56,
+          "gender": "Laki-laki",
+          "klasterid": "31",
+          "statusid": "Dalam Perawatan",
+          "wn": "WNI"
+        }
+      ],
+    "links":[
+        {
+           "source":2,
+           "target":1
+        },
+        {
+           "source":7,
+           "target":8
+        },
+        {
+           "source":9,
+           "target":11
+        },
+        {
+           "source":3,
+           "target":1
+        },
+        {
+           "source":70,
+           "target":1
+        },
+        {
+           "source":10,
+           "target":1
+        },
+        {
+           "source":11,
+           "target":1
+        },
+        {
+           "source":71,
+           "target":1
+        },
+        {
+           "source":4,
+           "target":1
+        },
+        {
+           "source":21,
+           "target":1
+        },
+        {
+           "source":12,
+           "target":1
+        },
+        {
+           "source":13,
+           "target":1
+        },
+        {
+           "source":14,
+           "target":74
+        },
+        {
+           "source":20,
+           "target":83
+        },
+        {
+           "source":23,
+           "target":20
+        },
+        {
+           "source":15,
+           "target":74
+        },
+        {
+           "source":16,
+           "target":74
+        },
+        {
+           "source":5,
+           "target":1
+        },
+        {
+           "source":78,
+           "target":81
+        },
+        {
+           "source":81,
+           "target":78
+        },
+        {
+           "source":19,
+           "target":74
+        },
+        {
+           "source":17,
+           "target":74
+        },
+        {
+           "source":83,
+           "target":1
+        },
+        {
+           "source":26,
+           "target":1
+        },
+        {
+           "source":27,
+           "target":1
+        },
+        {
+           "source":40,
+           "target":71
+        },
+        {
+           "source":46,
+           "target":78
+        },
+        {
+           "source":53,
+           "target":22
+        }
+     ]
+    
+    }
